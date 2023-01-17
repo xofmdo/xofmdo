@@ -51,9 +51,9 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 
 ### 💻 Education and completed courses:
 
-**UNECON - Saint Petersburg State University of Economics:
-2020: Bachelor's Degree - Corporate Finance and Business Valuation. 
-2022: Master's Degree - Applied Informatics - Digital Technologies in Economics and Management.**
+**UNECON - Saint Petersburg State University of Economics**:
+<p>2020: Bachelor's Degree - Corporate Finance and Business Valuation. </p>
+<p>2022: Master's Degree - Applied Informatics - Digital Technologies in Economics and Management.</p>
 
 
 |                                Courses                                      |        Date       |
