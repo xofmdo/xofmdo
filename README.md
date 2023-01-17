@@ -9,7 +9,9 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 - :telescope: In 2022, I started training at Yandex Practicum as a Python developer. 
 - :zap:In 2023, he continued his studies at the Yandex Practicum on the asynchronous programming in python course, as well as the Data Science course.
 
-- :mailbox: Ways to contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xofmdo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aleksandrkuzmich98@yandex.ru)
+- :mailbox: Ways to contact me: [![Telegram Badge](https://img.shields.io/badge/-xofmdo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xofmdo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aleksandrkuzmich98@yandex.ru)
+ 
+---
 
 ### 🤝 Социальные сети:
 
@@ -29,7 +31,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
   </div>
 <!--
 
-
+---
 ### 💻 Технологии:
 
 <div>
@@ -46,6 +48,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
 </div>
 
+---
 ### 💻 Пройденные курсы:
 
 |                                Курсы                                        |        Дата       |
@@ -64,7 +67,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 | stepik.org/ "Поколение Python": курс для профессионалов                     | 02/2023 - xx/2023 |
 
 
-
+---
 ### ⚙️ GitHub статистика:
 
 <table>
