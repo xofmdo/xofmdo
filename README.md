@@ -9,7 +9,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 - :telescope: In 2022, I started training at Yandex Practicum as a Python developer. 
 - :zap:In 2023, he continued his studies at the Yandex Practicum on the asynchronous programming in python course, as well as the Data Science course.
 
-- :mailbox: Ways to contact me: [![Telegram Badge](https://img.shields.io/badge/-xofmdo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xofmdo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aleksandrkuzmich98@yandex.ru)
+- :mailbox: Ways to contact me: [![Telegram Badge](https://img.shields.io/badge/-xofmdo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xofmdo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashadegtev12@gmail.com)
  
 ---
 
