@@ -13,7 +13,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
  
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social networks:
 
   <div id="badges">
     <a href="https://t.me/xofmdo" target="_blank">
@@ -30,7 +30,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -49,9 +49,14 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 ---
 
 
-### 💻 Пройденные курсы:
+### 💻 Education and completed courses:
 
-|                                Курсы                                        |        Дата       |
+**UNECON - Saint Petersburg State University of Economics:
+2020: Bachelor's Degree - Corporate Finance and Business Valuation. 
+2022: Master's Degree - Applied Informatics - Digital Technologies in Economics and Management.**
+
+
+|                                Courses                                      |        Date       |
 | --------------------------------------------------------------------------- | :---------------: |
 | coursera.org/ Основы программирования на Python                             | 03/2021 - 06/2021 |
 | stepik.org/ "Поколение Python": курс для начинающих                         | 11/2021 - 01/2022 |
