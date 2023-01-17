@@ -16,9 +16,6 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
     <a href="https://t.me/xofmdo" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
@@ -29,9 +26,10 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
       <img src="https://static.tildacdn.com/tild3434-3765-4432-a336-646261306131/habr_5.jpg" width="40" height="40" alt="Habr Badge"/>
     </a>
   </div>
-<!--
+
 
 ---
+
 ### 💻 Технологии:
 
 <div>
@@ -49,6 +47,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 </div>
 
 ---
+
 ### 💻 Пройденные курсы:
 
 |                                Курсы                                        |        Дата       |
@@ -68,6 +67,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 
 
 ---
+
 ### ⚙️ GitHub статистика:
 
 <table>
@@ -81,4 +81,5 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
   </tr>
 </table>
 ---
-**xofmdo/xofmdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
