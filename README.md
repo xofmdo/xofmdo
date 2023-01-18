@@ -68,7 +68,7 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub stats:
 
 <table>
   <tr>
