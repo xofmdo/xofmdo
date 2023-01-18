@@ -9,42 +9,36 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 - :telescope: In 2022, I started training at Yandex Practicum as a Python developer. 
 - :zap:In 2023, he continued his studies at the Yandex Practicum on the asynchronous programming in python course, as well as the Data Science course.
 
-- :mailbox: Ways to contact me: [![Telegram Badge](https://img.shields.io/badge/-xofmdo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xofmdo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashadegtev12@gmail.com)
- 
----
-
-### 🤝 Social networks:
-
+- :mailbox: Ways to contact me:<br> <br> 
+ [![Telegram Badge](https://img.shields.io/badge/-xofmdo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xofmdo) 
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashadegtev12@gmail.com)
   <div id="badges">
-    <a href="https://t.me/xofmdo" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
     <a href="https://vk.com/xofmdo" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="44" height="44" alt="VK Badge"/>
     </a>
     <a href="https://career.habr.com/alexander-kuzmich" target="_blank">
-      <img src="https://static.tildacdn.com/tild3434-3765-4432-a336-646261306131/habr_5.jpg" width="40" height="40" alt="Habr Badge"/>
+      <img src="https://static.tildacdn.com/tild3434-3765-4432-a336-646261306131/habr_5.jpg" width="44" height="44" alt="Habr Badge"/>
     </a>
   </div>
-
-
 ---
 
 ### 💻 Technologies:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX"  alt="NGINX" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest"  alt="pytest"width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git "width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="70" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="70" height="40"/>&nbsp;
 </div>
+
 
 ---
 
@@ -71,7 +65,6 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 | practicum.yandex/ Data Science                                              | 12/2022 - xx/2023 |
 | stepik.org/ Свободное погружение в СУБД                                     | 10/2022 - xx/2023 |
 | stepik.org/ "Поколение Python": курс для профессионалов                     | 02/2023 - xx/2023 |
-
 
 ---
 
