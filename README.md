@@ -57,20 +57,20 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 <br>
 
 
-|                                Courses                                      |        Date       |  Paid or free   |
-| --------------------------------------------------------------------------- | :---------------: |:---------------:|
-| coursera.org/ Основы программирования на Python                             | 03/2021 - 06/2021 |      Paid       |
-| stepik.org/ "Поколение Python": курс для начинающих                         | 11/2021 - 01/2022 |      Free       |
-| stepik.org/ Интерактивный тренажер по SQL                                   | 01/2022 - 02/2022 |      Free       |
-| stepik.org/ ООП на Python от egoroff_channel                                | 11/2021 - 03/2022 |      Paid       |
-| stepik.org/ Основы компьютерных и веб-технологий с Python от Диджитализируй | 01/2022 - 05/2022 |      Paid       |
-| stepik.org/ Django, потанцуем?                                              | 01/2022 - 05/2022 |      Paid       |
-| practicum.yandex/ Python-разработчик                                        | 01/2022 - 11/2022 |      Paid       |
-| stepik.org/ "Поколение Python": курс для продвинутых                        | 10/2022 - 01/2023 |      Free       |
-| practicum.yandex/ Асинхронное программирование на Python                    | 12/2022 - xx/2023 |      Paid       |
-| practicum.yandex/ Data Science                                              | 12/2022 - xx/2023 |      Paid       |
-| stepik.org/ Свободное погружение в СУБД                                     | 10/2022 - xx/2023 |      Free       |
-| stepik.org/ "Поколение Python": курс для профессионалов                     | 02/2023 - xx/2023 |      Paid       |
+|                                Courses                                      |        Date       |
+| --------------------------------------------------------------------------- | :---------------: |
+| coursera.org/ Основы программирования на Python                             | 03/2021 - 06/2021 |
+| stepik.org/ "Поколение Python": курс для начинающих                         | 11/2021 - 01/2022 |
+| stepik.org/ Интерактивный тренажер по SQL                                   | 01/2022 - 02/2022 |
+| stepik.org/ ООП на Python от egoroff_channel                                | 11/2021 - 03/2022 |
+| stepik.org/ Основы компьютерных и веб-технологий с Python от Диджитализируй | 01/2022 - 05/2022 |
+| stepik.org/ Django, потанцуем?                                              | 01/2022 - 05/2022 |
+| practicum.yandex/ Python-разработчик                                        | 01/2022 - 11/2022 |
+| stepik.org/ "Поколение Python": курс для продвинутых                        | 10/2022 - 01/2023 |
+| practicum.yandex/ Асинхронное программирование на Python                    | 12/2022 - xx/2023 |
+| practicum.yandex/ Data Science                                              | 12/2022 - xx/2023 |
+| stepik.org/ Свободное погружение в СУБД                                     | 10/2022 - xx/2023 |
+| stepik.org/ "Поколение Python": курс для профессионалов                     | 02/2023 - xx/2023 |
 
 
 ---
