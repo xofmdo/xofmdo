@@ -80,11 +80,11 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
     </td>
   </tr>
 </table>
-
+<!--
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xofmdo&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xofmdo&utcOffset=3&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xofmdo&layout=compact&theme=dracula)
 
 ---
-<!--
+
