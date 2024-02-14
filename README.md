@@ -7,7 +7,7 @@
 I am a python developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 He graduated from the magistracy in the direction of "Applied Informatics". Studied many courses on stepik and coursera platform.
 - :telescope: In 2022, I started training at Yandex Practicum as a Python developer. 
-- :zap:In 2023, he continued his studies at the Yandex Practicum on the asynchronous programming in python course, as well as the Data Science course.
+- :zap:In 2023, he continued his studies at the Yandex Practicum.
 
 - :mailbox: Ways to contact me:<br> <br> 
  [![Telegram Badge](https://img.shields.io/badge/-xofmdo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xofmdo) 
@@ -61,10 +61,10 @@ He graduated from the magistracy in the direction of "Applied Informatics". Stud
 | stepik.org/ Django, потанцуем?                                              | 01/2022 - 05/2022 |
 | practicum.yandex/ Python-разработчик                                        | 01/2022 - 11/2022 |
 | stepik.org/ "Поколение Python": курс для продвинутых                        | 10/2022 - 01/2023 |
-| practicum.yandex/ Асинхронное программирование на Python                    | 12/2022 - xx/2023 |
-| practicum.yandex/ Data Science                                              | 12/2022 - xx/2023 |
-| stepik.org/ Свободное погружение в СУБД                                     | 10/2022 - xx/2023 |
-| stepik.org/ "Поколение Python": курс для профессионалов                     | 02/2023 - xx/2023 |
+| practicum.yandex/ Data Science                                              | 12/2022 - 09/2023 |
+| stepik.org/ Оконные функции SQL                                             | 02/2024 - 02/2024 |
+| stepik.org/ "Поколение Python": курс для профессионалов                     | 06/2023 - xx/2023 |
+| stepik.org/ "Поколение Python": ООП                                         | 01/2024 - 03/2024 |
 
 ---
 
